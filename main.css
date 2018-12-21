@@ -1,0 +1,40 @@
+/* ---- GERAL ---- */
+
+* {
+  box-sizing: border-box;
+}
+
+/* ---- IMAGEM ---- */
+
+body {
+  background: url('assets/freedom.jpg') no-repeat center;
+  display: table;
+  background-size: cover;
+  height: 100vh;
+  color: #333;
+}
+
+/* ---- TEXTO ---- */
+
+.everything {
+  line-height: 1.5;
+  margin-top: 4rem;
+}
+
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 400;
+}
+
+p {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.25rem;
+  text-align: center;
+  font-style: italic;
+  margin: 2rem;
+}
